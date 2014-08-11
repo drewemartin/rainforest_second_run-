@@ -1,4 +1,4 @@
-==Welcome to Rainforest w/ Ajax
+==Welcome to Rainforest w/ Partials
 
 This is a project modelled off the popular site Amazon. 
 This version of a previously completed project utilizes 
