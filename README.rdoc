@@ -6,7 +6,7 @@ partials.
 
 ==Functionality Highlights
 
-* Uses partials to reduce redundant code (powered by rails)
+* Uses partials to reduce redundant code (powered by Rails)
 
 ==Specs
 
